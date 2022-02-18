@@ -6,8 +6,7 @@ BGANs
 Runhai Feng, Dario Grana, Tapan Mukerji, Klaus Mosegaard, "Applicaiton of Bayesian Generative Adversarial Networks to Geological Facies Modeling", Mathematical Geosciences, 2022
 
 ## Informations:
-It is suggested to use TensorFlow GPU
-You can install tensorflow with the following command
+Install tensorflow with the following command
 ```
 pip install tensorflow-gpu==1.13.1
 ```
